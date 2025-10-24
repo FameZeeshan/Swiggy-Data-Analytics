@@ -1,0 +1,10 @@
+# Ignore only backup Jupyter Notebook files
+*backup*.ipynb
+*_backup.ipynb
+*.bak.ipynb
+*.ipynb_checkpoints/
+
+# Ignore temporary Excel files (auto-created when a file is open)
+~$*.xlsx
+~$*.xls
+~$*.csv
